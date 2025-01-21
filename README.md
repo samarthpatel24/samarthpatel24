@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthpatel24lin&label=Profile%20views&color=0e75b6&style=flat" alt="samarthpatel24lin" /> </p>
 
-- 🔭 I’m currently working on **Dashboard for Valorant competitive stats**
-
 - 🌱 I’m currently learning **Power Bi**
 
 - 📫 How to reach me **sammatrix2415@gmail.com**
